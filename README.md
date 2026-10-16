@@ -8,7 +8,7 @@ Séries de Fourier → Transformada de Fourier → Transformada de Laplace
 | **Aluno** | Julio Cesar Sousa Oliveira — RA 22308014 |
 | **Sinal** | Eletrocardiograma (ECG) real — registro 208 do *MIT-BIH Arrhythmia Database* (PhysioNet), derivação MLII, $f_s = 360$ Hz |
 | **Notebook** | [`sistematizacao_sinais.ipynb`](sistematizacao_sinais.ipynb) |
-|
+| **video** |https://youtu.be/QE1AymKwgSk?si=vR3as50Y23_oFthN
 
 ---
 
